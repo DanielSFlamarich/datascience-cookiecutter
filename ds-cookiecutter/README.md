@@ -2,13 +2,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="docs/sonosuite_logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Data Science Cookiecutter</h3>
 
   <p align="center">
-    This repo will help you create new repositories already with all the tools needed to do data analysis in Sonosuite. This template is used by the data team to build software that has the same consistent architecture through all our projects. Remember that you'll need AWS credentials and the AWS CLI installed in your machine in order to clone, work and contribute in any way to our team's projects.
+    This repo will help you create new repositories already with all the tools needed to do data analysis. This template should be used by the data teams to build software that has the same consistent architecture through all projects.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
